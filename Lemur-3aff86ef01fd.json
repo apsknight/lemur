@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "MY PROJECT ID",
+  "private_key_id": "MY PRIVATE KEY",
+  "private_key": "-----BEGIN PRIVATE KEY----- Sorry, This is extremely confidential so not showing here.",
+  "client_email": "MY-EMAIL@MY-PROJECT.gserviceaccount.com",
+  "client_id": "MY CLIENT ID",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "Sorry, Not gonna reveal"
+}
