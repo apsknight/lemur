@@ -15,6 +15,8 @@ Lemur
 * HTML Emails
 	* Emails are in HTML format, created using ZURB Foundation Framework and Inliner.  
   
+  
+  
   >[IIT Bhubaneswar News API](http://amanpratapsingh.in/IITBBSNewsAPI) project is used for API Requests.
 
 ## How to subscribe
