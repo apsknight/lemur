@@ -1,6 +1,6 @@
 Lemur
 =====
-<p align="center">https://image.ibb.co/c00mcv/rsz_lemur_1312198_640.png</p>
+<p align="center"><img src="https://image.ibb.co/c00mcv/rsz_lemur_1312198_640.png"/ alt="Lemur Image"></p>
 
 [![License : MIT](https://img.shields.io/npm/l/express.svg)](http://aps.mit-license.org)
 [![Python: 2.7.12](https://img.shields.io/badge/Python-2.7.12-red.svg)](https://www.python.org/downloads/release/python-2712/)
@@ -12,7 +12,7 @@ Lemur
   
 ## Features
 * Subscription Management through Google Sheets
-	* Google Sheets([Why Google Shhet?](https://twitter.com/patio11/status/485239825314758656)) is used for `CRUD` functionality of Email Addresses. `C` and `R` is implemented while `U` and `D` is yet to implement.
+	* Google Sheets([Why Google Sheet?](https://twitter.com/patio11/status/485239825314758656)) is used for `CRUD` functionality of Email Addresses.
 * Email Sending through Python SMTP Library
 	* Python's standard Email and SMTP library is used for Email sending.
 * HTML Emails
@@ -22,7 +22,7 @@ Lemur
 Just fill this [Google Form](https://drive.google.com/open?id=1eWPAZ1T_eSPM8YMXR8GKDfAEazQYge3obBrW0qZHuok) and you're on board.
 
 ## Further ToDo
-* Create Unsubscription Functionality for opting out.
+* Create Unsubscription Functionality for opting out. `C` and `R` is implemented while `U` and `D` is yet to implement.
 * Add other resources like daily weather, quotes of the day, top local and national headlines in Emails.
 * Send Email to all users simultaneously. (Currently Emails are sent one by one to each user)
 * Code Cleaning and add Documentation in class functions.
