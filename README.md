@@ -1,5 +1,6 @@
 Lemur
 =====
+<p align="center">https://image.ibb.co/c00mcv/rsz_lemur_1312198_640.png</p>
 
 [![License : MIT](https://img.shields.io/npm/l/express.svg)](http://aps.mit-license.org)
 [![Python: 2.7.12](https://img.shields.io/badge/Python-2.7.12-red.svg)](https://www.python.org/downloads/release/python-2712/)
@@ -11,7 +12,7 @@ Lemur
   
 ## Features
 * Subscription Management through Google Sheets
-	* Google Sheets is used for `CRUD` functionality of Email Addresses. `C` and `R` is implemented while `U` and `D` is yet to implement.
+	* Google Sheets([Why Google Shhet?](https://twitter.com/patio11/status/485239825314758656)) is used for `CRUD` functionality of Email Addresses. `C` and `R` is implemented while `U` and `D` is yet to implement.
 * Email Sending through Python SMTP Library
 	* Python's standard Email and SMTP library is used for Email sending.
 * HTML Emails
