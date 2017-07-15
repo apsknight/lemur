@@ -9,16 +9,16 @@ Lemur
 
 ## Features
 * Subscription Management through Google Sheets
-	* Google Sheets is used for CRUD functionality of Email Addresses. C and R is implemented while R and D is yet to implement.
+	* Google Sheets is used for `CRUD` functionality of Email Addresses. `C` and `R` is implemented while `U` and `D` is yet to implement.
 * Email Sending through Python SMTP Library
 	* Python's standard Email and SMTP library is used for Email sending.
 * HTML Emails
-	* Emails are in HTML format, created using ZURB Foundation Framework and Inliner.
+	* Emails are in HTML format, created using ZURB Foundation Framework and Inliner.  
   
   >[IIT Bhubaneswar News API](http://amanpratapsingh.in/IITBBSNewsAPI) project is used for API Requests.
 
 ## How to subscribe
-Just fill [this Google Form](https://drive.google.com/open?id=1eWPAZ1T_eSPM8YMXR8GKDfAEazQYge3obBrW0qZHuok) and you're on board.
+Just fill this [Google Form](https://drive.google.com/open?id=1eWPAZ1T_eSPM8YMXR8GKDfAEazQYge3obBrW0qZHuok) and you're on board.
 
 ## Further ToDo
 * Create Unsubscription Functionality for opting out.
@@ -27,7 +27,7 @@ Just fill [this Google Form](https://drive.google.com/open?id=1eWPAZ1T_eSPM8YMXR
 * Code Cleaning and add Documentation in class functions.
 
 ## Contributing
-Feel free to submit a pull request or an issue. Sugest new features on issue tracker.
+Feel free to submit a pull request or an issue. Sugest new features on issue tracker.  
 **OR**  
 You can [tweet me](https://twitter.com/ultimateaps) for any other info.
 
