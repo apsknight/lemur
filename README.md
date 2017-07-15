@@ -6,7 +6,9 @@ Lemur
 ![](https://img.shields.io/badge/Heroku-deployed-brightgreen.svg)
 
 >A Python project for sending Email notification on IIT BBS News API Updation. The Project is currently functioning to send Email notification of updates on <http://www.iitbbs.ac.in>
-
+ 
+>[IIT Bhubaneswar News API](http://amanpratapsingh.in/IITBBSNewsAPI) project is used for API Requests.
+  
 ## Features
 * Subscription Management through Google Sheets
 	* Google Sheets is used for `CRUD` functionality of Email Addresses. `C` and `R` is implemented while `U` and `D` is yet to implement.
@@ -14,10 +16,6 @@ Lemur
 	* Python's standard Email and SMTP library is used for Email sending.
 * HTML Emails
 	* Emails are in HTML format, created using ZURB Foundation Framework and Inliner.  
-  
-  
-  
-  >[IIT Bhubaneswar News API](http://amanpratapsingh.in/IITBBSNewsAPI) project is used for API Requests.
 
 ## How to subscribe
 Just fill this [Google Form](https://drive.google.com/open?id=1eWPAZ1T_eSPM8YMXR8GKDfAEazQYge3obBrW0qZHuok) and you're on board.
