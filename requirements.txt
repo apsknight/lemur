@@ -2,7 +2,7 @@ certifi==2017.4.17
 chardet==3.0.4
 email==6.0.0a1
 gspread==0.6.2
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.5
 oauth2client==4.1.2
 pyasn1==0.2.3
