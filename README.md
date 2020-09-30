@@ -8,7 +8,7 @@ Lemur
 
 >A Python project for sending Email notification on IIT BBS News API Updation. The Project is currently functioning to send Email notification of updates on <http://www.iitbbs.ac.in>
  
->[IIT Bhubaneswar News API](http://amanpratapsingh.in/IITBBSNewsAPI) project is used for API Requests.
+>[IIT Bhubaneswar News API](https://github.com/dsciitbbs/iitbbsnewsapi) project is used for API Requests.
   
 ## Features
 * Subscription Management through Google Sheets
